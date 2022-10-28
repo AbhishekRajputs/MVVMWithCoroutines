@@ -1,9 +1,9 @@
 package com.example.myapplication.base
 
 import android.app.Application
-import com.example.myapplication.module.networkModule
-import com.example.myapplication.module.repositoryModule
-import com.example.myapplication.module.viewModelModule
+import com.example.myapplication.ui.module.networkModule
+import com.example.myapplication.ui.module.repositoryModule
+import com.example.myapplication.ui.module.viewModelModule
 
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger

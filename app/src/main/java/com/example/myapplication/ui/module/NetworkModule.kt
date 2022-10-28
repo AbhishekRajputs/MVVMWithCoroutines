@@ -1,4 +1,4 @@
-package com.example.myapplication.module
+package com.example.myapplication.ui.module
 
 
 import com.example.myapplication.api.ApiService
