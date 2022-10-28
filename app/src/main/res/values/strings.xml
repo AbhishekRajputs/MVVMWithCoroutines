@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="store_name">Store Name :</string>
+    <string name="address">Address :</string>
+    <string name="select_time">Select Time</string>
+    <string name="no_time_slot_available">No slots available for this day</string>
+    <string name="select_time_slot">Please Select Time Slot</string>
+</resources>
